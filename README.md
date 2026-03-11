@@ -29,7 +29,7 @@
 - 程序数据保存在当前用户的系统应用数据目录中
 
 默认数据库路径：
-```%APPDATA%\TodoDatabase\schedule.db```
+```\%AppData%\Roaming\TodoDatabase\schedule.db```
 ### onedir：文件夹版
 特点：
 - 程序以一个完整目录形式运行
@@ -137,4 +137,5 @@
 
 ## 项目源代码公开声明
 本项目目前仍处于开发与测试阶段，现阶段暂不公开源代码。
+
 后续版本稳定后会进行开源。
